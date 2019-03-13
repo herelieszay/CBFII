@@ -1,109 +1,110 @@
-Chicago Metro Test File,,,,,,,,,,,,,
-City League,North,South,,,,,,,,,,,
-North Suburban,Shore,Inland,,,,,,,,,,,
-West Suburban,Near,Far,,,,,,,,,,,
-South Suburban,Inner,Outer,,,,,,,,,,,
-Super Metro,Illinois,Indiana,,,,,,,,,,,
-Kingdom,Red,Blue,,,,,,,,,,,
-# Team format:,Conference,Division,Name,Abbr,Prestige,Rival,,,,,,,
-# SEC,,,,,,,,,,,,,
-TEAM,City League,North,Roberto Clemente,CLEM,60,SIME,,,,,,,
-TEAM,City League,North,Lane Tech,LANE,85,MORG,,,,,,,
-TEAM,City League,North,Lakeview,LAKE,55,HYDE,,,,,,,
-TEAM,City League,North,Westinghouse,WH,80,MLK,,,,,,,
-TEAM,City League,North,Marshall,MRSH,75,CVS,,,,,,,
-TEAM,City League,North,Whitney Young,WHIT,80,KEN,,,,,,,
-TEAM,City League,North,Lincoln Park,LINC,70,COR,,,,,,,
-TEAM,City League,South,Simeon,SIME,80,CLEM,,,,,,,
-TEAM,City League,South,Morgan Park,MORG,85,LANE,,,,,,,
-TEAM,City League,South,Hyde Park,HYDE,75,LAKE,,,,,,,
-TEAM,City League,South,ML King,MLK,75,WH,,,,,,,
-TEAM,City League,South,Chicago Vocational,CVS,90,MRSH,,,,,,,
-TEAM,City League,South,Kenwood,KEN,70,WHIT,,,,,,,
-TEAM,City League,South,Corliss,COR,80,LINC,,,,,,,
-# ACC,,,,,,,,,,,,,
-TEAM,North Suburban,Shore,New Trier,NT,99,NILE,,,,,,,
-TEAM,North Suburban,Shore,Highland Park,HIGH,75,EVAN,,,,,,,
-TEAM,North Suburban,Shore,Glenbrook,GLEN,65,MAIN,,,,,,,
-TEAM,North Suburban,Shore,Libertyville,LIB,80,BUFF,,,,,,,
-TEAM,North Suburban,Shore,Waukegan,WAUK,75,BARR,,,,,,,
-TEAM,North Suburban,Shore,Zion,ZION,70,CRYS,,,,,,,
-TEAM,North Suburban,Shore,Lake Forest,LFST,80,PTNE,,,,,,,
-TEAM,North Suburban,Inland,Niles,NILE,65,NT,,,,,,,
-TEAM,North Suburban,Inland,Evanston,EVAN,75,HIGH,,,,,,,
-TEAM,North Suburban,Inland,Maine Township,MAIN,85,GLEN,,,,,,,
-TEAM,North Suburban,Inland,Buffalo Grove,BUFF,75,LIB,,,,,,,
-TEAM,North Suburban,Inland,Barrington,BARR,65,WAUK,,,,,,,
-TEAM,North Suburban,Inland,Crystal Lake,CRYS,65,ZION,,,,,,,
-TEAM,North Suburban,Inland,Palatine,PTNE,60,LFST,,,,,,,
-# B10,,,,,,,,,,,,,
-TEAM,West Suburban,Near,Morton Township,MORT,75,WHEA,,,,,,,
-TEAM,West Suburban,Near,Riverside-Brookfield,RIVE,65,GLBD,,,,,,,
-TEAM,West Suburban,Near,Lyons Township,LYON,75,ADDI,,,,,,,
-TEAM,West Suburban,Near,Oak Park,OAKP,70,DOWN,,,,,,,
-TEAM,West Suburban,Near,Cicero,CICE,65,WC,,,,,,,
-TEAM,West Suburban,Near,Elmwood Park,ELMW,55,NAPE,,,,,,,
-TEAM,West Suburban,Near,John F. Kennedy,JKF,60,AURO,,,,,,,
-TEAM,West Suburban,Far,Wheaton,WHEA,95,MORT,,,,,,,
-TEAM,West Suburban,Far,Glenbard,GLBD,90,RIVE,,,,,,,
-TEAM,West Suburban,Far,Addison Trail,ADDI,65,LYON,,,,,,,
-TEAM,West Suburban,Far,Downers Grove,DOWN,65,OAKP,,,,,,,
-TEAM,West Suburban,Far,West Chicago,WC,60,CICE,,,,,,,
-TEAM,West Suburban,Far,Naperville,NAPE,80,ELMW,,,,,,,
-TEAM,West Suburban,Far,Aurora,AURO,80,JKF,,,,,,,
-# Big12,,,,,,,,,,,,,
-TEAM,South Suburban,Inner,Thornton,THRN,90,OKL,,,,,,,
-TEAM,South Suburban,Inner,Thornwood,THW,80,OKST,,,,,,,
-TEAM,South Suburban,Inner,Thornridge,THRG,80,KSU,,,,,,,
-TEAM,South Suburban,Inner,TF North,TFN,75,WVU,,,,,,,
-TEAM,South Suburban,Inner,TF South,TFS,70,ARMY,,,,,,,
-TEAM,South Suburban,Inner,Eisenhower,EISE,75,WYO,,,,,,,
-TEAM,South Suburban,Inner,Bremen,BREM,60,KU,,,,,,,
-TEAM,South Suburban,Outer,Homewood-Flossmoor,HF,85,TEX,,,,,,,
-TEAM,South Suburban,Outer,Bloom,BLM,85,TCU,,,,,,,
-TEAM,South Suburban,Outer,Lincoln-Way,LWAY,90,BSU,,,,,,,
-TEAM,South Suburban,Outer,Rich East,RE,75,TTU,,,,,,,
-TEAM,South Suburban,Outer,Rich South,RS,75,BAY,,,,,,,
-TEAM,South Suburban,Outer,Rich Central,RC,80,CSU,,,,,,,
-TEAM,South Suburban,Outer,Hillcrest,HILL,80,RICE,,,,,,,
-# Pac 12,,,,,,,,,,,,,
-TEAM,Super Metro,Illinois,Joliet,JOL,90,HAMM,,,,,,,
-TEAM,Super Metro,Illinois,Peoria Manuel,PEO,90,GARY,,,,,,,
-TEAM,Super Metro,Illinois,Springfield Lanphier,SPRG,85,HLN,,,,,,,
-TEAM,Super Metro,Illinois,Cairo,CARO,85,MUNS,,,,,,,
-TEAM,Super Metro,Illinois,Carbondale,CARB,75,MERR,,,,,,,
-TEAM,Super Metro,Illinois,East Saint Louis,ESTL,85,VALP,,,,,,,
-TEAM,Super Metro,Illinois,Champaign-Urbana,CHAM,70,CRWN,,,,,,,
-TEAM,Super Metro,Indiana,Hammond,HAMM,80,JOL,,,,,,,
-TEAM,Super Metro,Indiana,Gary-Roosevelt,GARY,85,PEO,,,,,,,
-TEAM,Super Metro,Indiana,Highland,HLN,65,SPRG,,,,,,,
-TEAM,Super Metro,Indiana,Munster,MUNS,60,CARO,,,,,,,
-TEAM,Super Metro,Indiana,Merrillville,MERR,60,CARB,,,,,,,
-TEAM,Super Metro,Indiana,Valparaiso,VALP,70,ESTL,,,,,,,
-TEAM,Super Metro,Indiana,Crown Point,CRWN,65,CHAM,,,,,,,
-# AAC,,,,,,,,,,,,,
-TEAM,Kingdom,Red,Joliet Catholic,JC,99,LYND,,,,,,,
-TEAM,Kingdom,Red,Hales Franciscan,HALE,85,VLLA,,,,,,,
-TEAM,Kingdom,Red,Marian Catholic,MRC,90,BOST,,,,,,,
-TEAM,Kingdom,Red,Fenwick,FEN,70,PONT,,,,,,,
-TEAM,Kingdom,Red,Saint Rita,RITA,80,CAV,,,,,,,
-TEAM,Kingdom,Red,St. Francis de Sales,SFDS,70,ANAB,,,,,,,
-TEAM,Kingdom,Red,Mount Carmel,MTCM,90,RLS,,,,,,,
-TEAM,Kingdom,Blue,Lyndon Boys & Girls,LYND,85,JC,,,,,,,
-TEAM,Kingdom,Blue,Villamaria,VLLA,75,HALE,,,,,,,
-TEAM,Kingdom,Blue,Boston Courts,BOST,90,MRC,,,,,,,
-TEAM,Kingdom,Blue,Pontiac,PONT,85,FEN,,,,,,,
-TEAM,Kingdom,Blue,Cavalier,CAV,85,RITA,,,,,,,
-TEAM,Kingdom,Blue,Ana Beach,ANAB,75,SFDS,,,,,,,
-TEAM,Kingdom,Blue,River Lake Stream,RLS,80,MTCM,,,,,,,
-# Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme,,,,
-# COACH,PONT,Nick Saban,65,90,90,90,90,Pro Style,Conservative,,,,
-# Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
-# OC,RLS,Mike Locksley,55,90,QB,Deep Pass,,,,,,,
-# Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
-# DC,BOST,Kirby Smart,55,95,LB,Inside Run,,,,,,,
-# Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
-# PLAYER,VLLA,QB,Halsted Jones,So,72,200,5,,,,,,
-# OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
-PLAYER,LYND,QB,Red Forrest,Jr,72,200,75,90,100,75,85,95,95
-END_FILE,,,,,,,,,,,,,
+Official Chicago Metro Test File,,,,,,
+City League,North,South,,,,
+North Suburban,Shore,Inland,,,,
+West Suburban,Near,Far,,,,
+South Suburban,Inner,Outer,,,,
+Super Metro,Illinois,Indiana,,,,
+Kingdom,Red,Blue,,,,
+# Team format:,Conference,Division,Name,Abbr,Prestige,Rival
+# SEC,,,,,,
+TEAM,City League,North,Roberto Clemente,RCM,60,SIM
+TEAM,City League,North,Lane Tech,LTH,85,MORT
+TEAM,City League,North,Lakeview,LVW,55,HYD
+TEAM,City League,North,Westinghouse,WSH,80,MLK
+TEAM,City League,North,Marshall,MSH,75,CVS
+TEAM,City League,North,Whitney Young,WHY,80,KEN
+TEAM,City League,North,Lincoln Park,LIP,70,COR
+TEAM,City League,South,Simeon,SIM,80,RCM
+TEAM,City League,South,Morgan Park,MORT,85,LTH
+TEAM,City League,South,Hyde Park,HYD,75,LVW
+TEAM,City League,South,ML King,MLK,75,WSH
+TEAM,City League,South,Chicago Vocational,CVS,90,MSH
+TEAM,City League,South,Kenwood,KEN,70,WHY
+TEAM,City League,South,Corliss,COR,80,LIP
+# ACC,,,,,,
+TEAM,North Suburban,Shore,New Trier,NTR,99,NIL
+TEAM,North Suburban,Shore,Highland Park,HGP,75,EVN
+TEAM,North Suburban,Shore,Glenbrook,GLB,65,MNE
+TEAM,North Suburban,Shore,Libertyville,LBY,80,BUF
+TEAM,North Suburban,Shore,Waukegan,WAU,75,BAR
+TEAM,North Suburban,Shore,Zion,ZIO,70,CRY
+TEAM,North Suburban,Shore,Lake Forest,LKF,80,PAL
+TEAM,North Suburban,Inland,Niles,NIL,65,NTR
+TEAM,North Suburban,Inland,Evanston,EVN,75,HGP
+TEAM,North Suburban,Inland,Maine Township,MNE,85,GLB
+TEAM,North Suburban,Inland,Buffalo Grove,BUF,75,LBY
+TEAM,North Suburban,Inland,Barrington,BAR,65,WAU
+TEAM,North Suburban,Inland,Crystal Lake,CRY,65,ZIO
+TEAM,North Suburban,Inland,Palatine,PAL,60,LKF
+# B10,,,,,,
+TEAM,West Suburban,Near,Morton Township,MRT,75,WHEA
+TEAM,West Suburban,Near,Riverside-Brookfield,RBF,65,GLBD
+TEAM,West Suburban,Near,Lyons Township,LYO,75,ADDI
+TEAM,West Suburban,Near,Oak Park,OPK,70,DOWN
+TEAM,West Suburban,Near,Cicero,CIC,65,WC
+TEAM,West Suburban,Near,Elmwood Park,EWP,55,NAPE
+TEAM,West Suburban,Near,John F. Kennedy,JKF,60,AURO
+TEAM,West Suburban,Far,Wheaton,WHT,95,MRT
+TEAM,West Suburban,Far,Glenbard,GLB,90,RBF
+TEAM,West Suburban,Far,Addison Trail,ADD,65,LYO
+TEAM,West Suburban,Far,Downers Grove,DWN,65,OPK
+TEAM,West Suburban,Far,West Chicago,WCG,60,CIC
+TEAM,West Suburban,Far,Naperville,NAP,80,EWP
+TEAM,West Suburban,Far,Aurora,AUR,80,JKF
+# Big12,,,,,,
+TEAM,South Suburban,Inner,Thornton,THT,90,HFR
+TEAM,South Suburban,Inner,Thornwood,THW,80,BLM
+TEAM,South Suburban,Inner,Thornridge,THR,80,LWY
+TEAM,South Suburban,Inner,TF North,TFN,75,RST
+TEAM,South Suburban,Inner,TF South,TFS,70,RSH
+TEAM,South Suburban,Inner,Eisenhower,EIS,75,RCL
+TEAM,South Suburban,Inner,Bremen,BRE,60,HIL
+TEAM,South Suburban,Outer,Homewood-Flossmoor,HFR,85,THT
+TEAM,South Suburban,Outer,Bloom,BLM,85,THW
+TEAM,South Suburban,Outer,Lincoln-Way,LWY,90,THR
+TEAM,South Suburban,Outer,Rich East,RST,75,TFN
+TEAM,South Suburban,Outer,Rich South,RSH,75,TFS
+TEAM,South Suburban,Outer,Rich Central,RCL,80,EIS
+TEAM,South Suburban,Outer,Hillcrest,HIL,80,BRE
+# Pac 12,,,,,,
+TEAM,Super Metro,Illinois,Joliet,JOL,90,HAM
+TEAM,Super Metro,Illinois,Peoria Manuel,PEO,90,GRY
+TEAM,Super Metro,Illinois,Springfield Lanphier,SPG,85,HLN
+TEAM,Super Metro,Illinois,Cairo,CRO,85,MUN
+TEAM,Super Metro,Illinois,Carbondale,CRB,75,MER
+TEAM,Super Metro,Illinois,East Saint Louis,ESL,85,VLP
+TEAM,Super Metro,Illinois,Champaign-Urbana,CHM,70,CRW
+TEAM,Super Metro,Indiana,Hammond,HAM,80,JOL
+TEAM,Super Metro,Indiana,Gary-Roosevelt,GRY,85,PEO
+TEAM,Super Metro,Indiana,Highland,HLN,65,SPG
+TEAM,Super Metro,Indiana,Munster,MUN,60,CRO
+TEAM,Super Metro,Indiana,Merrillville,MER,60,CRB
+TEAM,Super Metro,Indiana,Valparaiso,VLP,70,ESL
+TEAM,Super Metro,Indiana,Crown Point,CRW,65,CHM
+# AAC,,,,,,
+TEAM,Kingdom,Red,Joliet Catholic,JLC,99,LYN
+TEAM,Kingdom,Red,Hales Franciscan,HAL,85,ILL
+TEAM,Kingdom,Red,Marian Catholic,MRC,90,BOS
+TEAM,Kingdom,Red,Fenwick,FEN,70,PTC
+TEAM,Kingdom,Red,Saint Rita,RIT,80,CAV
+TEAM,Kingdom,Red,St. Francis de Sales,SFS,70,ANA
+TEAM,Kingdom,Red,Mount Carmel,MCM,90,RLS
+TEAM,Kingdom,Blue,Lyndon Boys & Girls,LYN,85,JLC
+TEAM,Kingdom,Blue,Villamaria,ILL,75,HAL
+TEAM,Kingdom,Blue,Boston Courts,BOS,90,MRC
+TEAM,Kingdom,Blue,Pontiac,PTC,85,FEN
+TEAM,Kingdom,Blue,Cavalier,CAV,85,RIT
+TEAM,Kingdom,Blue,Ana Beach,ANA,75,SFS
+TEAM,Kingdom,Blue,River Lake Stream,RLS,80,MCM
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+END_FILE,,,,,,
+
