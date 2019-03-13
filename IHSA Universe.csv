@@ -1,4 +1,4 @@
-Official Chicago Metro Test File,,,,,,
+Greater Chicago Metro Test File,,,,,,
 City League,North,South,,,,
 North Suburban,Shore,Inland,,,,
 West Suburban,Near,Far,,,,
@@ -96,15 +96,14 @@ TEAM,Kingdom,Blue,Pontiac,PTC,85,FEN
 TEAM,Kingdom,Blue,Cavalier,CAV,85,RIT
 TEAM,Kingdom,Blue,Ana Beach,ANA,75,SFS
 TEAM,Kingdom,Blue,River Lake Stream,RLS,80,MCM
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-END_FILE,,,,,,
-
+# Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme,,,,
+# COACH,RIT,Nick Saban,65,90,90,90,90,Pro Style,Conservative,,,,
+# Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
+# OC,RIT,Mike Locksley,55,90,QB,Deep Pass,,,,,,,
+# Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
+# DC,RIT,Kirby Smart,55,95,LB,Inside Run,,,,,,,
+# Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
+# PLAYER,RIT,QB,Tua Tagovailoa,So,72,200,5,,,,,,
+# OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
+PLAYER,RIT,QB,Jalen Hurts,Jr,72,200,75,90,100,75,85,95,95
+END_FILE,,,,,,,,,,,,,
