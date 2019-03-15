@@ -1,109 +1,109 @@
-Greater Chicago Metro Test File,,,,,,
-City League,North,South,,,,
-North Suburban,Shore,Inland,,,,
-West Suburban,Near,Far,,,,
-South Suburban,Inner,Outer,,,,
-Super Metro,Illinois,Indiana,,,,
-Kingdom,Red,Blue,,,,
-# Team format:,Conference,Division,Name,Abbr,Prestige,Rival
-# SEC,,,,,,
-TEAM,City League,North,Roberto Clemente,RCM,60,SIM
-TEAM,City League,North,Lane Tech,LTH,85,MORT
-TEAM,City League,North,Lakeview,LVW,55,HYD
-TEAM,City League,North,Westinghouse,WSH,80,MLK
-TEAM,City League,North,Marshall,MSH,75,CVS
-TEAM,City League,North,Whitney Young,WHY,80,KEN
-TEAM,City League,North,Lincoln Park,LIP,70,COR
-TEAM,City League,South,Simeon,SIM,80,RCM
-TEAM,City League,South,Morgan Park,MORT,85,LTH
-TEAM,City League,South,Hyde Park,HYD,75,LVW
-TEAM,City League,South,ML King,MLK,75,WSH
-TEAM,City League,South,Chicago Vocational,CVS,90,MSH
-TEAM,City League,South,Kenwood,KEN,70,WHY
-TEAM,City League,South,Corliss,COR,80,LIP
-# ACC,,,,,,
-TEAM,North Suburban,Shore,New Trier,NTR,99,NIL
-TEAM,North Suburban,Shore,Highland Park,HGP,75,EVN
-TEAM,North Suburban,Shore,Glenbrook,GLB,65,MNE
-TEAM,North Suburban,Shore,Libertyville,LBY,80,BUF
-TEAM,North Suburban,Shore,Waukegan,WAU,75,BAR
-TEAM,North Suburban,Shore,Zion,ZIO,70,CRY
-TEAM,North Suburban,Shore,Lake Forest,LKF,80,PAL
-TEAM,North Suburban,Inland,Niles,NIL,65,NTR
-TEAM,North Suburban,Inland,Evanston,EVN,75,HGP
-TEAM,North Suburban,Inland,Maine Township,MNE,85,GLB
-TEAM,North Suburban,Inland,Buffalo Grove,BUF,75,LBY
-TEAM,North Suburban,Inland,Barrington,BAR,65,WAU
-TEAM,North Suburban,Inland,Crystal Lake,CRY,65,ZIO
-TEAM,North Suburban,Inland,Palatine,PAL,60,LKF
-# B10,,,,,,
-TEAM,West Suburban,Near,Morton Township,MRT,75,WHEA
-TEAM,West Suburban,Near,Riverside-Brookfield,RBF,65,GLBD
-TEAM,West Suburban,Near,Lyons Township,LYO,75,ADDI
-TEAM,West Suburban,Near,Oak Park,OPK,70,DOWN
-TEAM,West Suburban,Near,Cicero,CIC,65,WC
-TEAM,West Suburban,Near,Elmwood Park,EWP,55,NAPE
-TEAM,West Suburban,Near,John F. Kennedy,JKF,60,AURO
-TEAM,West Suburban,Far,Wheaton,WHT,95,MRT
-TEAM,West Suburban,Far,Glenbard,GLB,90,RBF
-TEAM,West Suburban,Far,Addison Trail,ADD,65,LYO
-TEAM,West Suburban,Far,Downers Grove,DWN,65,OPK
-TEAM,West Suburban,Far,West Chicago,WCG,60,CIC
-TEAM,West Suburban,Far,Naperville,NAP,80,EWP
-TEAM,West Suburban,Far,Aurora,AUR,80,JKF
-# Big12,,,,,,
-TEAM,South Suburban,Inner,Thornton,THT,90,HFR
-TEAM,South Suburban,Inner,Thornwood,THW,80,BLM
-TEAM,South Suburban,Inner,Thornridge,THR,80,LWY
-TEAM,South Suburban,Inner,TF North,TFN,75,RST
-TEAM,South Suburban,Inner,TF South,TFS,70,RSH
-TEAM,South Suburban,Inner,Eisenhower,EIS,75,RCL
-TEAM,South Suburban,Inner,Bremen,BRE,60,HIL
-TEAM,South Suburban,Outer,Homewood-Flossmoor,HFR,85,THT
-TEAM,South Suburban,Outer,Bloom,BLM,85,THW
-TEAM,South Suburban,Outer,Lincoln-Way,LWY,90,THR
-TEAM,South Suburban,Outer,Rich East,RST,75,TFN
-TEAM,South Suburban,Outer,Rich South,RSH,75,TFS
-TEAM,South Suburban,Outer,Rich Central,RCL,80,EIS
-TEAM,South Suburban,Outer,Hillcrest,HIL,80,BRE
-# Pac 12,,,,,,
-TEAM,Super Metro,Illinois,Joliet,JOL,90,HAM
-TEAM,Super Metro,Illinois,Peoria Manuel,PEO,90,GRY
-TEAM,Super Metro,Illinois,Springfield Lanphier,SPG,85,HLN
-TEAM,Super Metro,Illinois,Cairo,CRO,85,MUN
-TEAM,Super Metro,Illinois,Carbondale,CRB,75,MER
-TEAM,Super Metro,Illinois,East Saint Louis,ESL,85,VLP
-TEAM,Super Metro,Illinois,Champaign-Urbana,CHM,70,CRW
-TEAM,Super Metro,Indiana,Hammond,HAM,80,JOL
-TEAM,Super Metro,Indiana,Gary-Roosevelt,GRY,85,PEO
-TEAM,Super Metro,Indiana,Highland,HLN,65,SPG
-TEAM,Super Metro,Indiana,Munster,MUN,60,CRO
-TEAM,Super Metro,Indiana,Merrillville,MER,60,CRB
-TEAM,Super Metro,Indiana,Valparaiso,VLP,70,ESL
-TEAM,Super Metro,Indiana,Crown Point,CRW,65,CHM
-# AAC,,,,,,
-TEAM,Kingdom,Red,Joliet Catholic,JLC,99,LYN
-TEAM,Kingdom,Red,Hales Franciscan,HAL,85,ILL
-TEAM,Kingdom,Red,Marian Catholic,MRC,90,BOS
-TEAM,Kingdom,Red,Fenwick,FEN,70,PTC
-TEAM,Kingdom,Red,Saint Rita,RIT,80,CAV
-TEAM,Kingdom,Red,St. Francis de Sales,SFS,70,ANA
-TEAM,Kingdom,Red,Mount Carmel,MCM,90,RLS
-TEAM,Kingdom,Blue,Lyndon Boys & Girls,LYN,85,JLC
-TEAM,Kingdom,Blue,Villamaria,ILL,75,HAL
-TEAM,Kingdom,Blue,Boston Courts,BOS,90,MRC
-TEAM,Kingdom,Blue,Pontiac,PTC,85,FEN
-TEAM,Kingdom,Blue,Cavalier,CAV,85,RIT
-TEAM,Kingdom,Blue,Ana Beach,ANA,75,SFS
-TEAM,Kingdom,Blue,River Lake Stream,RLS,80,MCM
+College League,,,,,,,,,,,,,
+Blue,East,West,,,,,,,,,,,
+Red,Atlantic,Coastal,,,,,,,,,,,
+Orange,East,West,,,,,,,,,,,
+Yellow,Sheriff,Outlaw,,,,,,,,,,,
+Green,North,South,,,,,,,,,,,
+Purple,East,West,,,,,,,,,,,
+# Team format:,Conference,Division,Name,Abbr,Prestige,Rival,,,,,,,
+# SEC,,,,,,,,,,,,,
+TEAM,Blue,I,Alamo College,ALA,75,TEN,,,,,,,
+TEAM,Blue,I,Tennessee A&M,TAMU,80,SCAR,,,,,,,
+TEAM,Blue,I,Long State Univ.,LSU,85,FU,,,,,,,
+TEAM,Blue,I,Aubrey College,AUB,40,UGA,,,,,,,
+TEAM,Blue,I,Mission State,MSST,85,UK,,,,,,,
+TEAM,Blue,I,Mission College,MISS,85,VAN,,,,,,,
+TEAM,Blue,I,Arkansas College,ARK,70,BS,,,,,,,
+TEAM,Blue,II,Univ. of Gainesville,UGA,90,AUB,,,,,,,
+TEAM,Blue,II,Florida Union,FU,75,LSU,,,,,,,
+TEAM,Blue,II,Tennessee Tech,TEN,70,ALA,,,,,,,
+TEAM,Blue,II,Scarsborough,SCAR,65,TAMU,,,,,,,
+TEAM,Blue,II,Big State,BS,80,ARK,,,,,,,
+TEAM,Blue,II,Univ. of Kingston,UK,70,MSST,,,,,,,
+TEAM,Blue,II,Vancouver,VAN,60,MISS,,,,,,,
+# ACC,,,,,,,,,,,,,
+TEAM,Red,Atlantic,Clemford,CLEM,95,GT,,,,,,,
+TEAM,Red,Atlantic,Francisco State,FSU,75,UM,,,,,,,
+TEAM,Red,Atlantic,Louisville College,LOU,70,UVA,,,,,,,
+TEAM,Red,Atlantic,North Christian State,NCST,80,UNC,,,,,,,
+TEAM,Red,Atlantic,College of Syracuse,SYR,55,PITT,,,,,,,
+TEAM,Red,Atlantic,Bedlam College,BC,70,VT,,,,,,,
+TEAM,Red,Atlantic,Washington Free School,WF,60,DUKE,,,,,,,
+TEAM,Red,Western,Univ. of Minneapolis,UM,90,FSU,,,,,,,
+TEAM,Red,Western,Victory Tech,VT,55,BC,,,,,,,
+TEAM,Red,Western,Northern California,UNC,85,NCST,,,,,,,
+TEAM,Red,Western,Pittsford,PITT,50,SYR,,,,,,,
+TEAM,Red,Western,Gordon Tech,GT,75,CLEM,,,,,,,
+TEAM,Red,Western,Lord & Duke,DUKE,85,WF,,,,,,,
+TEAM,Red,Western,Virgin American,UVA,75,LOU,,,,,,,
+# B10,,,,,,,,,,,,,
+TEAM,Orange,West,Western Interstate,WIS,75,OSU,,,,,,,
+TEAM,Orange,West,Northeastern Bedlam,NEB,85,MICH,,,,,,,
+TEAM,Orange,West,Iowa College,IOWA,80,PSU,,,,,,,
+TEAM,Orange,West,Northwest College,NW,90,MSU,,,,,,,
+TEAM,Orange,West,Purdue-Indiana,PUR,70,MD,,,,,,,
+TEAM,Orange,West,Minneapolis College,MINN,65,IND,,,,,,,
+TEAM,Orange,West,Illinois Institute,ILL,60,RUT,,,,,,,
+TEAM,Orange,East,Oakwood State,OSU,80,WIS,,,,,,,
+TEAM,Orange,East,Michigan Technical,MICH,75,NEB,,,,,,,
+TEAM,Orange,East,Penny State,PSU,75,IOWA,,,,,,,
+TEAM,Orange,East,Marshall-Stateway,MSU,65,NW,,,,,,,
+TEAM,Orange,East,Mary's Dominion,MD,90,PUR,,,,,,,
+TEAM,Orange,East,Indianapolis College,IND,75,MINN,,,,,,,
+TEAM,Orange,East,Rutledge Univ.,RUT,65,ILL,,,,,,,
+# Big12,,,,,,,,,,,,,
+TEAM,Green,A,Texas College,TEX,90,OKL,,,,,,,
+TEAM,Green,A,Texas Commonwealth,TCU,95,FORT,,,,,,,
+TEAM,Green,A,Bradford State,BSU,80,KSU,,,,,,,
+TEAM,Green,A,Texas Technical,TTU,75,WVU,,,,,,,
+TEAM,Green,A,Bay State,BAY,85,ARMY,,,,,,,
+TEAM,Green,A,Chicago State,CSU,60,WYO,,,,,,,
+TEAM,Green,A,Richard Rice,RICE,70,KU,,,,,,,
+TEAM,Green,AA,Oklahoma College,OKL,95,TEX,,,,,,,
+TEAM,Green,AA,Queensfort,FORT,85,TCU,,,,,,,
+TEAM,Green,AA,Kingston State,KSU,80,BSU,,,,,,,
+TEAM,Green,AA,Washington-Vanderbilt,WVU,80,TTU,,,,,,,
+TEAM,Green,AA,Army College,ARMY,85,BAY,,,,,,,
+TEAM,Green,AA,West Youngstown,WYO,60,CSU,,,,,,,
+TEAM,Green,AA,Kings University,KU,80,RICE,,,,,,,
+# Pac 12,,,,,,,,,,,,,
+TEAM,Yellow,North,Oregon College,ORE,90,UTAH,,,,,,,
+TEAM,Yellow,North,Notre Dame,ND,90,USC,,,,,,,
+TEAM,Yellow,North,Washington College,WASH,85,ARIZ,,,,,,,
+TEAM,Yellow,North,Stanfield,STAN,85,BYU,,,,,,,
+TEAM,Yellow,North,Western State,WSU,80,ASU,,,,,,,
+TEAM,Yellow,North,California College,CAL,90,UCLA,,,,,,,
+TEAM,Yellow,North,Ole Redford State,ORST,60,COLO,,,,,,,
+TEAM,Yellow,South,Southern Caribbia,USC,65,ND,,,,,,,
+TEAM,Yellow,South,Central Los Angeles,UCLA,85,CAL,,,,,,,
+TEAM,Yellow,South,Utah College,UTAH,75,ORE,,,,,,,
+TEAM,Yellow,South,Bradford Young Univ.,BYU,75,STAN,,,,,,,
+TEAM,Yellow,South,Arizona College,ARIZ,75,WASH,,,,,,,
+TEAM,Yellow,South,Ana State Univ.,ASU,70,WSU,,,,,,,
+TEAM,Yellow,South,Colorado College,COLO,65,ORST,,,,,,,
+# AAC,,,,,,,,,,,,,
+TEAM,Purple,West,Houstonville,HOU,80,UCF,,,,,,,
+TEAM,Purple,West,Memphis Tenn,MEM,75,CIN,,,,,,,
+TEAM,Purple,West,Saint Mary Univ.,SMU,95,USF,,,,,,,
+TEAM,Purple,West,Appalacian College,APP,70,TROY,,,,,,,
+TEAM,Purple,West,Naval College,NAVY,70,TEM,,,,,,,
+TEAM,Purple,West,Tulane,TULN,60,ECU,,,,,,,
+TEAM,Purple,West,Univ. of Tulsa,TLSA,55,CONN,,,,,,,
+TEAM,Purple,East,Central Florence,UCF,80,HOU,,,,,,,
+TEAM,Purple,East,Central Indiana,CIN,75,MEM,,,,,,,
+TEAM,Purple,East,South Florida,USF,75,SMU,,,,,,,
+TEAM,Purple,East,College of Troy,TROY,70,APP,,,,,,,
+TEAM,Purple,East,Temple College,TEM,80,NAVY,,,,,,,
+TEAM,Purple,East,Eastern College,ECU,65,TULN,,,,,,,
+TEAM,Purple,East,Connecticut State,CONN,55,TLSA,,,,,,,
 # Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme,,,,
-# COACH,RIT,Nick Saban,65,90,90,90,90,Pro Style,Conservative,,,,
+# COACH,ALA,Nick Saban,65,90,90,90,90,Pro Style,Conservative,,,,
 # Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
-# OC,RIT,Mike Locksley,55,90,QB,Deep Pass,,,,,,,
+# OC,ALA,Mike Locksley,55,90,QB,Deep Pass,,,,,,,
 # Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
-# DC,RIT,Kirby Smart,55,95,LB,Inside Run,,,,,,,
+# DC,ALA,Kirby Smart,55,95,LB,Inside Run,,,,,,,
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
-# PLAYER,RIT,QB,Tua Tagovailoa,So,72,200,5,,,,,,
+# PLAYER,ALA,QB,Tua Tagovailoa,So,72,200,5,,,,,,
 # OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
-PLAYER,RIT,QB,Jalen Hurts,Jr,72,200,75,90,100,75,85,95,95
+PLAYER,ALA,QB,Jalen Hurts,Jr,72,200,75,90,100,75,85,95,95
 END_FILE,,,,,,,,,,,,,
